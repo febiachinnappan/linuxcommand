@@ -1,0 +1,225 @@
+    1  =--0̀
+    2  ÷
+    3  vi test.sh
+    4  clear
+    5  vi test.sh
+    6  chmod +x test.sh
+    7  ./test.sh
+    8  grep 'febia' test.sh
+    9  vim test1.sh
+   10  vi test1.sh
+   11  chmod +x test1.sh
+   12  ./test1.sh 
+   13  vi file.sh
+   14  bash file.sh
+   15  bash file.sh febia
+   16  vi file.sh
+   17  chmod +x file.sh
+   18  bash file.sh
+   19  vi test3.sh
+   20  chmod +x test3.sh
+   21  ./test3.sh
+   22  bash test3.sh
+   23  bash test3.sh febia
+   24  vi test4.sh
+   25  chmod +x test4.sh
+   26  ./test4.sh febia 21
+   27  vi test4.sh
+   28  chmod +x test4.sh
+   29  ./test4.sh febia 21
+   30  vi arrays.sh
+   31  chmod +x arrays.sh
+   32  ./arrays.sh 
+   33  bash arrays.sh 
+   34  vi arrays.sh
+   35  chmod +x arrays.sh
+   36  bash arrays.sh 
+   37  vi arrays.sh
+   38  chmod +x arrays.sh
+   39  bash arrays.sh 
+   40  vi arithmetic.sh
+   41  chmod +x arithmetic.sh 
+   42  bash arithmetic.sh 
+   43  vi arithmetic.sh
+   44  chmod +x arithmetic.sh 
+   45  bash arithmetic.sh 
+   46  vi arithmetic.sh
+   47  chmod +x arithmetic.sh 
+   48  ./arithmetic.sh 
+   49  bash arithmetic.sh 
+   50  vi arithmetic.sh
+   51  chmod +x arithmetic.sh 
+   52  bash arithmetic.sh 
+   53  vi arithmetic.sh
+   54  chmod +x arithmetic.sh 
+   55  bash arithmetic.sh 
+   56  vi arithmetic.sh
+   57  chmod +x arithmetic.sh 
+   58  bash arithmetic.sh 
+   59  vi arithmetic.sh
+   60  chmod +x arithmetic.sh 
+   61  bash arithmetic.sh 
+   62  vi arithmetic.sh
+   63  bash arithmetic.sh 
+   64  chmod +x arithmetic.sh 
+   65  bash arithmetic.sh 
+   66  chmod +x arithmetic.sh 
+   67  ./arithmetic.sh 
+   68  vi arithmetic.sh
+   69  ./arithmetic.sh 
+   70  ./let_arithmetic.sh
+   71  vi arithmetic.sh
+   72  ./arithmetic.sh 
+   73  vi arithmetic.sh
+   74  ./arithmetic.sh 
+   75  vi arithmetic.sh
+   76  ./arithmetic.sh 
+   77  vi arithmetic.sh
+   78  ./arithmetic.sh 
+   79  export a=1
+   80  export b=12
+   81  echo $a
+   82  echo $b
+   83  echo "$(expr $a + $b)"
+   84  vi arithmetic.sh
+   85  ./arithmetic.sh 
+   86  vi ifelse.sh
+   87  ./ifelse.sh
+   88  bash ifelse.sh 
+   89  vi ifelse.sh
+   90  bash ifelse.sh 
+   91  vi ifelse.sh
+   92  bash ifelse.sh 
+   93  vi ifelse.sh
+   94  bash ifelse.sh 
+   95  vi ifelse.sh
+   96  bash ifelse.sh 
+   97  vi ifelse.sh
+   98  bash ifelse.sh 
+   99  vi ifelse.sh
+  100  bash ifelse.sh 
+  101  clear
+  102  vi ifelse.sh
+  103  bash ifelse.sh 
+  104  vi ifelse.sh
+  105  bash ifelse.sh 
+  106  vi ifelse.sh
+  107  bash ifelse.sh 
+  108  vi ifelse.sh
+  109  chmod +x ifelse.sh
+  110  ./ifelse.sh 
+  111  vi ifelse.sh
+  112  ./ifelse.sh 
+  113  vi ifstatement.sh
+  114  chmod +x ifstatement.sh 
+  115  ./ifstatement.sh 
+  116  vi ifstatement.sh
+  117  ./ifstatement.sh 
+  118  vi ifstatement.sh
+  119  ./ifstatement.sh 
+  120  vi ifstatement.sh
+  121  ./ifstatement.sh 
+  122  vi ifstatement.sh
+  123  ./ifstatement.sh 
+  124  history>>operator.txt
+    1  =--0̀
+    2  ÷
+    3  vi nnumber.sh
+    4  chmod +x nnumber.sh 
+    5  ./nnumber.sh 
+    6  vi nnumber.sh
+    7  ./nnumber.sh 
+    8  .\nnumber.sh
+    9  ./nnumber.sh 
+   10  vi nnumber.sh
+   11  ./nnumber.sh 
+   12  vi nnumber.sh
+   13  chmod +x nnumber.sh 
+   14  ./nnumber.sh 
+   15  vi nnumber.sh
+   16  ./nnumber.sh 
+   17  vi nnumber.sh
+   18  ./nnumber.sh 
+   19  clear
+   20  vi nnumber.sh
+   21  chmod +x nnumber.sh 
+   22  ./nnumber.sh 
+   23  vi evennumber.sh
+   24  chmod +x evennumber.sh 
+   25  ./evennumber.sh 
+   26  vi evennumber.sh
+   27  ./evennumber.sh 
+   28  vi evennumber.sh
+   29  ./evennumber.sh 
+   30  vi evennumber.sh
+   31  ./evennumber.sh 
+   32  vi evennumber.sh
+   33  clear
+   34  ps -u tom
+   35  ps -U tom
+   36  ps aux | less
+   37  clear
+   38  ps aux | less
+   39  alias ifconfig |grep inet
+   40  alias "hi there"
+   41  alias = "hi there"
+   42  vi greater.sh
+   43  chmod +x greater.sh 
+   44  ./greater.sh 
+   45  vi greater.sh
+   46  ./greater.sh 
+   47  vi greater.sh
+   48  ./greater.sh 
+   49  clear
+   50  touch file.txt
+   51  cat file.txt
+   52  hello
+   53  cat > file.txt
+   54  vi file.sh
+   55  vi newfile.sh
+   56  chmod +x newfile.sh 
+   57  ./newfile.sh 
+   58  vi newfile.sh
+   59  ./newfile.sh 
+   60  cat newfile.sh 
+   61  cat file.txt
+   62  vi switchcase.sh
+   63  chmod +x switchcase.sh 
+   64  ./switchcase.sh 
+   65  vi switchcase.sh
+   66  ./switchcase.sh 
+   67  vi whilestatement.sh
+   68  chmod +x whilestatement.sh 
+   69  ./whilestatement.sh 
+   70  vi whilestatement.sh
+   71  ./whilestatement.sh 
+   72  vi whilestatement.sh
+   73  ./whilestatement.sh 
+   74  vi whilestatement.sh
+   75  vi arithmetic.sh 
+   76  vi whilestatement.sh
+   77  ./whilestatement.sh 
+   78  vi whilestatement.sh
+   79  ./whilestatement.sh 
+   80  vi whilestatement.sh
+   81  ./whilestatement.sh 
+   82  vi whilestatement.sh
+   83  ./whilestatement.sh 
+   84  vi forstatement.sh
+   85  chmod +x forstatement.sh 
+   86  ./forstatement.sh 
+   87  ./forstatement.sh febia 21
+   88  vi utilstatement.sh
+   89  chmod +x utilstatement.sh 
+   90  ./utilstatement.sh 
+   91  vi utilstatement.sh
+   92  ./utilstatement.sh 
+   93  vi utilstatement.sh
+   94  ./utilstatement.sh 
+   95  vi utilstatement.sh
+   96  ./utilstatement.sh 
+   97  vi utilstatement.sh
+   98  ./utilstatement.sh 
+   99  clear
+  100  history
+  101  history>>operator.txt 
